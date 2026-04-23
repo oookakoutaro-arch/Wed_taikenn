@@ -49,4 +49,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/images/サカナクション.jpg)
+![image](/Wed_taikenn/assets/images/サカナクション.jpg)
