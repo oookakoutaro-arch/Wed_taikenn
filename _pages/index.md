@@ -4,7 +4,11 @@ author: default
 permalink: /
 ---
 # サカナクションおすすめの曲
-
+![image](/Wed_taikenn/assets/images/サカナクション.jpg)
+- **有名な曲**
+- 新宝島[リンク](https://youtu.be/LIlZCmETvsY?si=6MqG9hFCFb0C6oVc)
+- 怪獣[リンク](https://youtu.be/a8dgNdJVluc?si=6R-BDrx0elYFumXB)
+- **個人的なおすすめ**
 - 白波トップウォーター[リンク](https://youtu.be/5PEnwHKR3tc?si=DPEde7eapsCD_cIH)
 - 目が明く藍色[リンク](https://youtu.be/xOqvFHwh3rk?si=0M_Wt0v8oAnCVvgz)
 - 
