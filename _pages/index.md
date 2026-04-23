@@ -49,4 +49,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/サカナクション.jpg)
+![image](/images/サカナクション.jpg)
